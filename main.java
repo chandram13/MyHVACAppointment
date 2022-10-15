@@ -23,4 +23,22 @@ public class clientRequest{
         int expectedCompletion = int;
     }
 }
+public class technicanArrival{
+    string clientRequest;
+    string clientLocation;
+    string isImmediate; // if problem is immediate or not
+    int issueEstimate;
+    int laborCost;
+    int equipmentCost;
 
+    static void technicanExpectations(String[] args){
+        string clientRequest = string;
+        string clientLocation = string;
+        string isImmediate = string;
+        int issueEstimate = int;
+        int laborCost = int;
+        int equipmentCost = int;
+    }
+
+
+}
